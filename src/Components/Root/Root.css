@@ -1,0 +1,10 @@
+.root-main{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+nav a.active{
+    text-decoration: underline;
+    color: green;
+}
